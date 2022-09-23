@@ -42,12 +42,13 @@
 <p>
   <img width="43%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UsirusenIkon&layout=compact&theme=react&show_icons=true" alt="usirusen" />
 </p>
+
 <p>
-  &nbsp;<img width="43%" align="left" src="https://github-readme-stats.vercel.app/api?username=usirusenikon&show_icons=true&theme=react" alt="usirusenikon" />
+  &nbsp;<img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=usirusenikon&show_icons=true&theme=react" alt="usirusenikon" />
 </p>
 
 <p>
-  <img width"40%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=UsirusenIkon&theme=react" alt="usirusenikon"/>
+  <img width"50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=UsirusenIkon&theme=react" alt="usirusenikon"/>
 </p>
 <!--
 **UsirusenIkon/UsirusenIkon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
