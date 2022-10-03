@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently learning **Front-end Development**
 
+- 👯 I’m looking to collaborate on lots of projects...
+
 - 💬 Ask me about **Coding, life and sports**
 
 - 📫 How to reach me: Lexicon048@gmail.com
